@@ -1,0 +1,21 @@
+# requirements file
+#conda create -p c:\Users\btina\LLM\AI-week1 python=3.11 -y
+#conda activate c:\Users\btina\LLM\AI-week1
+#python.exe -m pip install --upgrade pip
+#Successfully installed pip-24.0
+#FEB-22-2024 Successfully installed datasets-2.15.0 tokenizers-0.15.2 transformers-4.37.2
+#conda list -n ENV_NAME
+
+#-----------%pip install --upgrade pip
+#-----------%pip install --disable-pip-version-check \
+#navigate to proper directory 
+#(c:\Users\btina\LLM\AI-week1) C:\Users\btina\LLM\AI-Week1\__source>
+#pip install -r requirements.txt
+
+python-dotenv==1.0.0
+torch==2.2.0
+torchdata==0.7.1
+transformers==4.37.2 
+datasets==2.15.0
+tdqm
+
